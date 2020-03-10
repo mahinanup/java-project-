@@ -1,0 +1,4 @@
+
+Account No.: 123	 Customer name: mahin	 Customer Balance: 500
+Account No.: 456	 Customer name: rahul	 Customer Balance: 1000
+Account No.: 678	 Customer name: mahin	 Customer Balance: 1000
